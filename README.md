@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://imgur.com/3Ewdmmu.png" align="right" height="200"  />
+<img src="https://imgur.com/3Ewdmmu.png" align="right" height="150"  />
 
 ###
 
