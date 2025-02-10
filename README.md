@@ -1,4 +1,7 @@
+
+
 <h2 align="center">✨ 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒓𝒂𝒗𝒆𝒍𝒆𝒓,<br> 𝑁𝑖𝑐𝑒 𝑡𝑜 𝑚𝑒𝑒𝑡 𝑦𝑜𝑢, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 𝐾𝑎𝑚𝑖𝑙𝑦 𝐾𝑜𝑐ℎℎ𝑎𝑛𝑛.</h2>
+
 
 
 ###
@@ -21,11 +24,16 @@
 
 ㅤㅤ <img src="https://cdn.discordapp.com/attachments/1334917110433976412/1336137404410495038/Tumblr_l_364691622140319.gif?ex=67a7fc6d&is=67a6aaed&hm=c5d0e7f28118eb744079d1f12fc2e643c19c8329ccb676a729d12888b2f9e99b&.gif" width="300" align="left" style="margin-right: 20px;"> <br> 
 
+
+
 ###
 
 <img src="https://imgur.com/3Ewdmmu.png" align="right" height="150"  />
 
 ###
+
+
+
 
 <img src="https://media1.giphy.com/media/lDg7bR8y7kjJuRHYmG/200w.gif?cid=6c09b952xvbtfomldom3m6tiyo8db79buraepacach22fxgh&ep=v1_stickers_search&rid=200w.gif&ct=s" align="left" height="100"  />
 
@@ -36,8 +44,6 @@ I've dabbled in cybersecurity, AI, software development, and even built Discord 
 🌸 Currently: Studying Information Systems and always keeping an eye on new tech.<br>
 
 </div>
-
-###
 
 ###
 
@@ -86,15 +92,25 @@ I've dabbled in cybersecurity, AI, software development, and even built Discord 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50" alt="heroku logo"  />
 </div>
 
+
+
+
 <br><br><br><br>
 <br clear="both">
+
+
+
 
 <img align="center" height="100" src="https://media.discordapp.net/attachments/1272867052620873728/1333136842316447817/tumblr_3b690c2fd4cddfdfdb9c6abff8a65607_d6d0355e_2048.png?ex=67a846af&is=67a6f52f&hm=44762282dadd8dcde017f97a85bb4979f02b8ba568763b690a4b8e077ac34413&=&format=webp&quality=lossless&width=1452&height=109"  />
 
 <img align="right" height="150" src="https://imgur.com/IdI9YR3.png"  />
 <br>
 
+
+
 ###
+
+
 
 <div align="center">
   <a href="Instagram.com/kamilykochhann" target="_blank">
